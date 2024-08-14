@@ -8,17 +8,17 @@
 
 ### Backend  
 <div align="left"> 
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python,flask,fastapi,selenium,postgres,redis,docker" alt="React" height="50" /></a>  
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python,flask,fastapi,selenium,postgres,redis,docker" alt="Backend" height="50" /></a>  
 </div>
 
 ### Frontend  
 <div align="left">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap" alt="React" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap" alt="Frontend" height="50" /></a>  
 </div>
 
 ### Other  
 <div align="left"> 
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ubuntu,bash,git,pycharm,postman" alt="React" height="50" /></a>  
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ubuntu,bash,git,pycharm,postman" alt="Other" height="50" /></a>  
 </div>
 
 <br/>  
