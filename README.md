@@ -1,6 +1,5 @@
 ## Hi everyone 👋
 ### <div align="left"> 🌱 I'm just a Python developer who has a dream.</div>  
-<img src="https://i.guim.co.uk/img/media/66c5e09bdc8a8a039a1fdf89ae9beaf2dd504ee4/0_0_1700_1020/master/1700.jpg?width=1900&dpr=1&s=none">
 
 <br/> 
 
